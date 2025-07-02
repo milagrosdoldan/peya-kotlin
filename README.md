@@ -1,4 +1,3 @@
-readme_content = """
 # PeyaDemoApp
 
 Aplicación Android desarrollada en Kotlin como demo de arquitectura moderna utilizando Hilt, Room, Retrofit y Navigation Component.
