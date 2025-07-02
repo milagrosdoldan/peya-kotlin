@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Room schema
+schemas/
+
+# Generated build files (kapt, Hilt, etc)
+build/
+build/generated/
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.tmp
+*.bak
