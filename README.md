@@ -2,7 +2,7 @@
 
 Aplicación Android desarrollada en Kotlin como demo de arquitectura moderna utilizando Hilt, Room, Retrofit y Navigation Component.
 
-## 🧰 Tecnologías utilizadas
+## 📱 Tecnologías utilizadas
 
 - **Kotlin**: Lenguaje principal
 - **Android Jetpack**:
